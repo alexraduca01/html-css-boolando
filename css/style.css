@@ -57,7 +57,7 @@ nav {
 }
 a {
     text-decoration: none;
-    margin-right: 10px;
+    padding: 0 10px;
     color: white;
 }
 .logo {
