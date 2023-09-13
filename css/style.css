@@ -30,6 +30,10 @@ body {
 }
 .txt-margin {
     margin: 10px 0;
+
+}
+.box-padding {
+    padding: 50px 0;
 }
 .img-fit {
     display: block;
@@ -71,9 +75,6 @@ nav {
 }
 .card-box {
     width: calc(100% / 3 - 10px);
-}
-.box-padding {
-    padding: 50px 0;
 }
 .box-margin {
     margin-bottom: 30px;
