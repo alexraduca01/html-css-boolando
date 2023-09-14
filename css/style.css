@@ -55,6 +55,7 @@ a {
 
 header {
     background-color: var(--nav-bg);
+    height: 70px;
     box-shadow: 0 0 5px rgba(0, 0, 0, 0.582);
     position: fixed;
     top: 0;
@@ -63,8 +64,7 @@ header {
     z-index: 5000000;
 }
 nav {
-    background-color: var(--nav-bg);
-    height: 70px;
+    height: 100%;
 }
 .txt-center > a {
     padding: 0 10px;
